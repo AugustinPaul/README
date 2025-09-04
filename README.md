@@ -2,8 +2,8 @@
 
 🎓 Master’s student in Cybersecurity Engineering at the University of Maryland, College Park
 
-🔐 Passionate about security, cloud, and system hardening
+🔐 Passionate about security, cloud, and penentration testing
 
-💻 Exploring offensive & defensive security, automation, and secure development
+💻 My favorite hobby is playing soccer
 
 🌱 Always learning, building, and sharing knowledge
